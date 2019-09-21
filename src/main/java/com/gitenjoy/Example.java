@@ -11,7 +11,7 @@ public class Example {
     @RequestMapping
     String home(){
 
-        return "hello Git V0.7 --master update ---merge合并分支";
+        return "hello Git V0.8 --master update ---merge合并分支";
 
     }
 
